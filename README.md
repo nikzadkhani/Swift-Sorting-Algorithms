@@ -1,2 +1,2 @@
 # Swift-Sorting-Algorithms
-Some Sorting Algorithms in Swift
+A nice playground of sorting algorithms implemented in Swift. Requires Xcode to run the playground.
